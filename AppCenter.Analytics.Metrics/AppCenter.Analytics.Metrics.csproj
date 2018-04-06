@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Description>Metrics library for Microsoft App Center analytics.</Description>
+    <PackageLicenseUrl>https://github.com/adamfisher/Microsoft.AppCenter.Analytics.Metrics/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/adamfisher/Microsoft.AppCenter.Analytics.Metrics</PackageProjectUrl>
+    <PackageIconUrl>https://mobilecentersdkdev.blob.core.windows.net/sdk/mobilecenter-logo.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/adamfisher/Microsoft.AppCenter.Analytics.Metrics</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>app center appcenter analytics mobilecenter metrics</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AppCenter.Analytics" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
