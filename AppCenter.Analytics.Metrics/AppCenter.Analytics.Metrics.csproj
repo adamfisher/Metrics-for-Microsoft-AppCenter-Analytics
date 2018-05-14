@@ -5,7 +5,6 @@
     <Description>Metrics library for Microsoft App Center analytics.</Description>
     <PackageLicenseUrl>https://github.com/adamfisher/Microsoft.AppCenter.Analytics.Metrics/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/adamfisher/Microsoft.AppCenter.Analytics.Metrics</PackageProjectUrl>
-    <PackageIconUrl>https://mobilecentersdkdev.blob.core.windows.net/sdk/mobilecenter-logo.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/adamfisher/Microsoft.AppCenter.Analytics.Metrics</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>app center appcenter analytics mobilecenter metrics</PackageTags>
